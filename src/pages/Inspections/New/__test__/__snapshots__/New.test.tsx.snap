@@ -1,0 +1,42 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`New Inspection match with snapshot 1`] = `
+Array [
+  <h1>
+    Nova Inspeção
+  </h1>,
+  <div
+    className="sc-hKgILt RVPmz"
+  >
+    <div
+      className="sc-jSgupP hBDZzH"
+    >
+      <label>
+        Adicione uma keyword e Solicite procura por links
+      </label>
+      <input
+        onChange={[Function]}
+        placeholder="Informe a keyword"
+        value=""
+      />
+    </div>
+    <div
+      className="sc-eCssSg cqYcHT"
+    >
+      <button
+        className="sc-dlfnbm kacgkK"
+        data-testid="btn-link"
+      >
+        Voltar
+      </button>
+      <button
+        className="sc-gsTCUz dPeWPU"
+        data-testid="btn"
+        onClick={[Function]}
+      >
+        Salvar
+      </button>
+    </div>
+  </div>,
+]
+`;

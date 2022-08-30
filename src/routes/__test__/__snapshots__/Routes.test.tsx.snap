@@ -1,0 +1,69 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Routes match with snapshot 1`] = `
+Array [
+  <header
+    className="sc-gsTCUz iUNJdd"
+  >
+    <a
+      href="/"
+      title="Home"
+    >
+      <img
+        alt="Logo do app: desafio Axur"
+        className="sc-dlfnbm ebWWjJ"
+        src="brand.svg"
+      />
+    </a>
+  </header>,
+  <div
+    className="sc-hKgILt euAZNc"
+  >
+    <h1>
+      Home
+    </h1>
+    <div
+      className="sc-kEjbxe irossh grid"
+    >
+      <div>
+        <div
+          className="sc-gKsewC gzXdMk bounce"
+          onClick={[Function]}
+        >
+          <div
+            className="sc-iqHYGH ipQvOR"
+          >
+            <h3>
+              Novo Web Crawling
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div>
+        <div
+          className="sc-gKsewC gzXdMk bounce"
+          onClick={[Function]}
+        >
+          <div
+            className="sc-iqHYGH ipQvOR"
+          >
+            <h3>
+              Consultar Web Crawling
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div
+        className="sc-fubCfw cqjzZl"
+      >
+        <h2>
+          Pesquisas Recentes
+        </h2>
+        <div
+          className="sc-pFZIQ iaPyDd grid"
+        />
+      </div>
+    </div>
+  </div>,
+]
+`;
